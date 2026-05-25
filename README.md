@@ -169,4 +169,5 @@ MIT License
 ## Author
 
 Developed by Umut
-AI & Engineering Student focused on machine learning systems and intelligent automation.
+
+AI & Data Engineering Student focused on machine learning systems and intelligent automation.
