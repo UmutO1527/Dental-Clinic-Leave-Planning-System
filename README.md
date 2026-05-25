@@ -69,8 +69,8 @@ Total Staff
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/smart-dental-leave-system.git
-cd smart-dental-leave-system
+git clone https://github.com/UmutO1527/Dental-Clinic-Leave-Planning-System.git
+cd Dental-Clinic-Leave-Planning-System
 ```
 
 Install dependencies:
